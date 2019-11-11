@@ -1,0 +1,12 @@
+study	species	duration	lambda1	lambda2	lambda3	reference
+Irving1983	human	360	0.3237	0.0589	0.0087	Irving1983
+Irving1983	human	360	NA	NA	0.0097	3
+Irving1983	human	360	NA	NA	0.0089	19
+Irving1983	human	160	0.32	0.0139	NA	30
+Irving1983	human	120	0.134	0.0107	NA	36
+Irving1983	human	480	0.041	0.0113	0.00072	14
+Irving1983	cat	300	0.243	0.0234	0.0012	16
+Irving1983	dog	120	0.315	0.0729	0.0118	8
+Irving1983	rat	120	0.93	0.16	0.025	31
+Irving1983	rat	180	0.227	0.09	0.016	23
+
